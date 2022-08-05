@@ -1,0 +1,11 @@
+Pasos 
+Crear el repositorio en github
+
+1. Creo una carpeta local en el pc
+2. Indico git bash here
+3. Indico el comando git init
+4. git remote add origin https://github.com/juanes2855/Badistmo.git
+5. Pongo el archivo del proyecto en la carpeta
+6. git add .
+7. git commit -m "PRUEBA BADISTMO"
+8. git push -u origin main
